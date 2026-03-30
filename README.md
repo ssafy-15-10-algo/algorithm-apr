@@ -115,10 +115,10 @@ algorithm-mar
 
 | Day | 문제 | 난이도 | 링크 |
 |:--:|:--|:--:|:--|
-| **14일차 (월)** | - | 골드 IV | https://www.acmicpc.net/problem/ |
-| **15일차 (화)** | - | 골드 IV | https://www.acmicpc.net/problem/ |
-| **16일차 (수)** | - | 골드 II | https://www.acmicpc.net/problem/ |
-| **17일차 (목)** | - | 골드 IV | https://www.acmicpc.net/problem/ |
+| **14일차 (월)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **15일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **16일차 (수)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **17일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **18일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **스터디** | - | 플래티넘  | https://www.acmicpc.net/problem/ |
 
