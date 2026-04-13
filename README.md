@@ -101,7 +101,7 @@ algorithm-mar
 | Day | 문제 | 난이도 | 링크 |
 |:--:|:--|:--:|:--|
 | **9일차 (월)** | 자두나무 | 골드 IV | https://www.acmicpc.net/problem/2240 |
-| **10일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **10일차 (화)** | BFS 스페셜 저지 | 골드 III | https://www.acmicpc.net/problem/16940 |
 | **11일차 (수)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **12일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **13일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
